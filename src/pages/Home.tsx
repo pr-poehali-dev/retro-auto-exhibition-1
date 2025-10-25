@@ -52,9 +52,9 @@ const Home = () => {
                 Купить билет
               </Button>
             </Link>
-            <Link to="/contacts">
+            <Link to="/events">
               <Button size="lg" variant="outline" className="text-lg px-8">
-                Контакты
+                События
               </Button>
             </Link>
           </div>

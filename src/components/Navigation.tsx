@@ -7,7 +7,7 @@ const Navigation = () => {
   const links = [
     { path: '/', label: 'Главная' },
     { path: '/tickets', label: 'Билеты' },
-    { path: '/contacts', label: 'Контакты' }
+    { path: '/events', label: 'События' }
   ];
 
   return (
